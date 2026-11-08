@@ -1,5 +1,5 @@
 Nombre:
-Jose Manuel Mercedes Rodriguez
+Jose Manuel 
 
 Apellido:
 Mercedes Rodriguez
